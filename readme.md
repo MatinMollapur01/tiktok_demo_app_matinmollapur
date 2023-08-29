@@ -15,7 +15,7 @@ A desktop video player inspired by TikTok, built using Python's Tkinter and Open
 
 1. Clone the repository:
 
-git clone https://github.com/your_username/tiktok-inspired-video-player.git
+https://github.com/MatinMollapur01/tiktok_demo_app_matinmollapur.git
 
 # Navigate to the project directory:
 
